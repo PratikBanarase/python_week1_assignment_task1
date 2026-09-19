@@ -150,4 +150,4 @@ After completing this project, the following concepts are practiced:
 - Modular programming
 
 # Author
-Tanvi Bramhankar
+Pratik Banarase
